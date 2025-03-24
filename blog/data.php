@@ -15,7 +15,7 @@
         <div class="container">
             <h3 class="fs-5 fw-bold text-center ">Data Post</h3>
             <div class="pt-2 ms-auto" style="width: 100px;">
-                <a href="./tambah.php" class="btn btn-outline-primary btn-sm mb-3">Tambah Data</a>
+                <a href="./create.php" class="btn btn-outline-primary btn-sm mb-3">Tambah Data</a>
             </div>
             <div>
                 <table class="table text-center">
