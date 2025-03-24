@@ -1,5 +1,5 @@
 <footer>
-    <div class="bg-primary text-light py-5" style="position: sticky; width: 100%; bottom: 0; height: 320px;">
+    <div class="bg-primary text-light py-5" style="height: 320px;">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 text-center">

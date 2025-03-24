@@ -15,7 +15,7 @@
     $query  = mysqli_query($conn, $result);
     $counts = mysqli_fetch_all($query, MYSQLI_ASSOC);
     ?>
-    <div class="mt-4 py-5" style="height: 400px">
+    <div class="mt-4 py-5" style="height: 600px;">
         <div class="container">
             <h2 class="mb-3">Dashboard</h2>
             <div class="row g-4">
@@ -39,9 +39,10 @@
                 <?php endif; ?>
             </div>
         </div>
-        <div class="container d-flex justify-content-center align-item-end">
-            <img src="./img/11145.jpg" alt="" width="640px" height="400px">
+        <div class="container d-flex justify-content-center align-item-end" style="height: 340px">
+            <img src="./img/11145.jpg" alt="" width="450px">
         </div>
+        <?php include './layouts/footer.php' ?>
     </div>
 </body>
 
